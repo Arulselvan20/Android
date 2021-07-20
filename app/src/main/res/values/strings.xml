@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFirstApplication</string>
+    <string name="language_known">Language Known?</string>
+    <string name="c">C#</string>
+    <string name="java">Java</string>
+    <string name="python">Python</string>
+    <string name="php">Php</string>
+    <string name="show_result">Show Result</string>
+</resources>
